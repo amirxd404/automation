@@ -11,5 +11,5 @@ def install_and_import(package):
 install_and_import('requests')
 
 import requests
-os.system('chmod 777 paid')
-os.system('./paid')
+os.system('chmod 777 fbs')
+os.system('./fbs')
