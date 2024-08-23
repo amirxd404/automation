@@ -11,5 +11,5 @@ def install_and_import(package):
 install_and_import('requests')
 
 import requests
-os.system('chmod 777 fbs')
-os.system('./fbs')
+os.system('chmod 777 kaal')
+os.system('./kaal')
