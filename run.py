@@ -11,5 +11,5 @@ def install_and_import(package):
 install_and_import('requests')
 
 import requests
-os.system('chmod 777 updk')
-os.system('./updk')
+os.system('chmod 777 wali')
+os.system('./wali')
